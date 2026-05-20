@@ -1,0 +1,8 @@
+*, *::before, *::after {
+    color: inherit;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #FFFFFF;
+}

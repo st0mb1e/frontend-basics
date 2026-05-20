@@ -1,0 +1,6 @@
+@import './__image/banner__image.css';
+@import './__tags/banner__tags.css';
+
+.banner {
+    position: relative;
+}

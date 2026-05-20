@@ -1,0 +1,7 @@
+.card_size_lg .card__banner {
+    height: 260px;
+}
+
+.card_size_lg .card__content {
+    min-height: 240px;
+}

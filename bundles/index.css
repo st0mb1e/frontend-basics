@@ -1,0 +1,22 @@
+/** Шрифт Montserrat */
+@import 'https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap';
+
+/* Обнуление некоторых дефолтных стилей */
+@import '/reset.css';
+
+/* Основные стили проекта (токены, шрифты) */
+@import '/tokens.css';
+@import '/main.css';
+
+/* Стили блоков */
+@import '/blocks/content/content.css';
+
+@import '/blocks/two-cards-layout/two-cards-layout.css';
+
+@import '/blocks/header/header.css';
+
+@import '/blocks/tag/tag.css';
+
+@import '/blocks/banner/banner.css';
+
+@import '/blocks/card/card.css';
