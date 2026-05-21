@@ -1,0 +1,7 @@
+@import './_variant/button_variant_inverse.css';
+
+.button {
+    font-weight: 700;
+    padding: 14px 20px;
+    font-size: 16px;
+}

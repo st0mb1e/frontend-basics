@@ -1,1 +1,9 @@
+@import './__left-bar/header__left-bar.css';
+@import './__payload/header__payload.css';
+@import './__links/header__links.css';
+@import './__link/header__link.css';
 
+.header {
+    height: 76px;
+    border-bottom: 1px solid #EFF5FB;
+}

@@ -9,6 +9,8 @@
 @import '/main.css';
 
 /* Стили блоков */
+@import '/blocks/container/container.css';
+
 @import '/blocks/content/content.css';
 
 @import '/blocks/two-cards-layout/two-cards-layout.css';
@@ -20,3 +22,5 @@
 @import '/blocks/banner/banner.css';
 
 @import '/blocks/card/card.css';
+
+@import '/blocks/button/button.css';
