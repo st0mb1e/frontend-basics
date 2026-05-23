@@ -1,0 +1,8 @@
+@import './__input/input-container__input.css';
+@import './__button/input-container__button.css';
+
+.input-container {
+    position: relative;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+}

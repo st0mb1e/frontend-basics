@@ -1,0 +1,13 @@
+@import './__container/footer__container.css';
+@import './__payload/footer__payload.css';
+@import './__links-block/footer__links-block.css';
+@import './__links/footer__links.css';
+@import './__link/footer__link.css';
+@import './__social-links/footer__social-links.css';
+@import './__divider/footer__divider.css';
+@import './__bottom/footer__bottom.css';
+@import './__bottom-link/footer__bottom-link.css';
+
+.footer {
+    background-color: #2963A3;
+}

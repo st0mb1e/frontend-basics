@@ -1,0 +1,10 @@
+.input-container__button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-radius: 4px;
+    background-color: #16C8BB;
+    color: #FFFFFF;
+    padding: 14px 20px;
+}

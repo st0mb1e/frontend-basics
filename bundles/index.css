@@ -11,8 +11,6 @@
 /* Стили блоков */
 @import '/blocks/container/container.css';
 
-@import '/blocks/content/content.css';
-
 @import '/blocks/two-cards-layout/two-cards-layout.css';
 
 @import '/blocks/header/header.css';
@@ -24,3 +22,13 @@
 @import '/blocks/card/card.css';
 
 @import '/blocks/button/button.css';
+
+@import '/blocks/footer/footer.css';
+
+@import '/blocks/subscribe-form/subscribe-form.css';
+
+@import '/blocks/input-container/input-container.css';
+
+@import '/blocks/svg-container/svg-container.css';
+
+@import '/blocks/social-media-links/social-media-links.css';

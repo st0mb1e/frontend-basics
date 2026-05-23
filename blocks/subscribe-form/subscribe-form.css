@@ -1,0 +1,9 @@
+@import './__header/subscribe-form__header.css';
+@import './__disclaimer/subscribe-form__disclaimer.css';
+
+.subscribe-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 450px;
+    gap: 8px;
+}

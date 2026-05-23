@@ -1,0 +1,7 @@
+@import './__link/social-media-links__link.css';
+
+.social-media-links {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}

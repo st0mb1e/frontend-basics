@@ -11,6 +11,13 @@ button {
     color: inherit
 }
 
+input {
+    outline: none;
+    border: none;
+    background-color: transparent;
+    color: inherit;
+}
+
 a {
     text-decoration: none;
     color: inherit;
@@ -23,3 +30,4 @@ ul {
 header, footer, main {
     display: block;
 }
+
