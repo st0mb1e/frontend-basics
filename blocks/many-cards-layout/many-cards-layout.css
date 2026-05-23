@@ -1,0 +1,10 @@
+.many-cards-layout {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    margin-top: 24px;
+}
+
+.many-cards-layout .card {
+    flex: 1 1 calc((100% - 48px) / 3);
+}

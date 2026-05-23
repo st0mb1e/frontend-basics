@@ -13,6 +13,8 @@
 
 @import '/blocks/two-cards-layout/two-cards-layout.css';
 
+@import '/blocks/many-cards-layout/many-cards-layout.css';
+
 @import '/blocks/header/header.css';
 
 @import '/blocks/tag/tag.css';
