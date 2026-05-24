@@ -44,3 +44,7 @@
 @import '/blocks/breadcrumbs/breadcrumbs.css';
 
 @import '/blocks/more-button-container/more-button-container.css';
+
+@import '/blocks/header/__pick-up-button/header__pick-up-button.css';
+
+@import '/blocks/header/__menu-button/header__menu-button.css';

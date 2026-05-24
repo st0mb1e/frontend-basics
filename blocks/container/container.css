@@ -2,3 +2,9 @@
     margin: 0 120px;
     height: 100%;
 }
+
+@media screen and (max-width: 1270px) {
+    .container {
+        margin: 0 32px;
+    }
+}
