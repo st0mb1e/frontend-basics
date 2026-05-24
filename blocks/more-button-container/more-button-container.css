@@ -1,0 +1,9 @@
+@import './__button/more-button-container__button.css';
+
+.more-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 58px;
+    padding-bottom: 96px;
+}

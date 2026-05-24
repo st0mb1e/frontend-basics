@@ -1,3 +1,5 @@
+@import './_with-gap/two-cards-layout_with-gap.css';
+
 .two-cards-layout {
     display: flex;
     gap: 24px;

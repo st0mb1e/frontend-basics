@@ -1,0 +1,10 @@
+@import './__separator/breadcrumbs__separator.css';
+@import './_with-gap/breadcrumbs_with-gap.css';
+
+.breadcrumbs {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    line-height: 18px;
+    color: #333333B2;
+}

@@ -34,3 +34,13 @@
 @import '/blocks/svg-container/svg-container.css';
 
 @import '/blocks/social-media-links/social-media-links.css';
+
+@import '/blocks/tags-list/tags-list.css';
+
+@import '/blocks/title/title.css';
+
+@import '/blocks/blog/blog.css';
+
+@import '/blocks/breadcrumbs/breadcrumbs.css';
+
+@import '/blocks/more-button-container/more-button-container.css';
