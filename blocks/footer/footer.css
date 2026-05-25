@@ -11,3 +11,18 @@
 .footer {
     background-color: #2963A3;
 }
+
+
+@media screen and (max-width: 768px) {
+    .footer .footer__payload {
+        margin-top: 35px;
+    }
+
+    .footer .footer__divider {
+        margin-top: 20px;
+    }
+
+    .footer .footer__bottom {
+        padding-top: 20px;
+    }
+}

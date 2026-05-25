@@ -2,4 +2,45 @@
     display: flex;
     justify-content: space-between;
     margin-top: 40px;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 990px) {
+    .footer__payload {
+        gap: 31px 20px;
+    }
+
+    .footer__payload .footer__links-block,
+    .footer__payload .footer__form {
+        flex: 1 1 calc(50% - 10px);
+        min-width: min(100%, 280px);
+        max-width: 100%;
+    }
+
+    .footer__payload .footer__links-block {
+        justify-content: space-between;
+        gap: unset;
+    }
+
+    .footer__payload .footer__form {
+        max-width: none;
+    }
+
+    .footer__payload .footer__social-links {
+        flex-basis: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer__payload {
+        gap: 0 31px;
+    }
+
+    .footer__payload .footer__form {
+        margin-top: 23px;
+    }
+
+    .footer__payload .footer__social-links {
+        margin-top: 5px;
+    }
 }

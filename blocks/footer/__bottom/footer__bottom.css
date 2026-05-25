@@ -3,3 +3,18 @@
     gap: 48px;
     padding: 16px 0;
 }
+
+
+@media screen and (max-width: 990px) {
+    .footer__bottom {
+        padding-bottom: 23px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer__bottom {
+        flex-direction: column;
+        gap: 20px;
+        padding-bottom: 37px;
+    }
+}
