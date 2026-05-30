@@ -4,3 +4,45 @@
     display: flex;
     gap: 24px;
 }
+
+.two-cards-layout .card__banner {
+    height: 260px;
+}
+
+.two-cards-layout .card__content {
+    min-height: 240px;
+}
+
+@media screen and (max-width: 990px) {
+    .two-cards-layout {
+        flex-direction: column;
+    }
+
+    .two-cards-layout .card__banner {
+        height: 404px;
+    }
+
+    .two-cards-layout .card__content {
+        min-height: 196px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .two-cards-layout {
+        gap: 16px;
+    }
+
+    .two-cards-layout .card__banner {
+        height: 260px;
+    }
+
+    .two-cards-layout .card__content {
+        min-height: 196px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .two-cards-layout .card__banner {
+        height: 206px;
+    }
+}

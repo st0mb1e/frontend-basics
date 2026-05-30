@@ -1,4 +1,3 @@
-@import './_size/card_size_lg.css';
 @import './__banner/card__banner.css';
 @import './__content/card__content.css';
 @import './__title/card__title.css';
@@ -7,4 +6,6 @@
 @import './__date/card__date.css';
 
 .card {
+    display: flex;
+    flex-direction: column;
 }

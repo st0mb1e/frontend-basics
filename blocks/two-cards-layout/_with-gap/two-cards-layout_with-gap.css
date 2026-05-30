@@ -1,3 +1,9 @@
 .two-cards-layout_with-gap {
     margin-top: 24px;
 }
+
+@media screen and (max-width: 420px) {
+    .two-cards-layout_with-gap {
+        margin-top: 16px;
+    }
+}
