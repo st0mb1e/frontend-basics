@@ -1,0 +1,15 @@
+@import '/blocks/promo-card-windows/__image-container/promo-card-windows__image-container.css';
+@import '/blocks/promo-card-windows/__title/promo-card-windows__title.css';
+@import '/blocks/promo-card-windows/__image/promo-card-windows__image.css';
+@import '/blocks/promo-card-windows/__description/promo-card-windows__description.css';
+@import '/blocks/promo-card-windows/__image-background/promo-card-windows__image-background.css';
+@import '/blocks/promo-card-windows/__image-round/promo-card-windows__image-round.css';
+
+.promo-card-windows {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    background-color: #E6F0FD;
+    border-radius: 16px;
+    padding: 24px;
+}

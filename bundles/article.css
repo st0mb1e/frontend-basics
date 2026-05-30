@@ -1,0 +1,44 @@
+/** Шрифт Montserrat */
+@import 'https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap';
+
+/* Обнуление некоторых дефолтных стилей */
+@import '/reset.css';
+
+/* Основные стили проекта (токены, шрифты) */
+@import '/tokens.css';
+@import '/main.css';
+
+/* Стили блоков */
+@import '/blocks/container/container.css';
+
+@import '/blocks/header/header.css';
+
+@import '/blocks/header/__pick-up-button/header__pick-up-button.css';
+
+@import '/blocks/header/__menu-button/header__menu-button.css';
+
+@import '/blocks/title/title.css';
+
+@import '/blocks/breadcrumbs/breadcrumbs.css';
+
+@import '/blocks/button/button.css';
+
+@import '/blocks/footer/footer.css';
+
+@import '/blocks/subscribe-form/subscribe-form.css';
+
+@import '/blocks/input-container/input-container.css';
+
+@import '/blocks/svg-container/svg-container.css';
+
+@import '/blocks/social-media-links/social-media-links.css';
+
+@import '/blocks/more-button-container/more-button-container.css';
+
+@import '/blocks/article-payload/article-payload.css';
+
+@import '/blocks/promo-cards-col/promo-cards-col.css';
+
+@import '/blocks/promo-card-windows/promo-card-windows.css';
+
+@import '/blocks/article-col/article-col.css';

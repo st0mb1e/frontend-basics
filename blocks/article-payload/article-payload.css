@@ -1,0 +1,4 @@
+.article-payload {
+    display: flex;
+    justify-content: space-between;
+}
