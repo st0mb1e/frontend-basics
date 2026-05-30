@@ -1,0 +1,6 @@
+.promo-card-psycho__specializations {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}

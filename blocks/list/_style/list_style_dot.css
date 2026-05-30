@@ -1,0 +1,15 @@
+.list_style_dot li {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.list_style_dot li::before {
+    content: '';
+    flex-shrink: 0;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #03B2A5;
+    margin: 6px;
+}

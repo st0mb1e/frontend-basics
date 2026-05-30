@@ -1,0 +1,23 @@
+@import './__image-container/promo-card-psycho__image-container.css';
+@import './__image/promo-card-psycho__image.css';
+@import './__tags/promo-card-psycho__tags.css';
+@import './__tag/promo-card-psycho__tag.css';
+@import './__personal-info/promo-card-psycho__personal-info.css';
+@import './__title/promo-card-psycho__title.css';
+@import './__post/promo-card-psycho__post.css';
+@import './__description/promo-card-psycho__description.css';
+@import './__divider/promo-card-psycho__divider.css';
+@import './__specializations/promo-card-psycho__specializations.css';
+@import './__specializations-title/promo-card-psycho__specializations-title.css';
+@import './__button/promo-card-psycho__button.css';
+
+.promo-card-psycho {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    border: 1px solid #DEDEDE;
+    border-radius: 16px;
+    padding: 24px 16px 36px 16px;
+}
