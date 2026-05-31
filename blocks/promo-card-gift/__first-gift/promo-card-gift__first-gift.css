@@ -1,0 +1,9 @@
+.promo-card-gift__first-gift {
+    position: absolute;
+    bottom: -20px;
+    left: 14px;
+    display: block;
+    width: 112px;
+    transform: rotate(90deg);
+    z-index: 2;
+}

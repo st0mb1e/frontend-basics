@@ -1,0 +1,13 @@
+@import './__header/promo-card-gift__header.css';
+@import './__background/promo-card-gift__background.css';
+@import './__first-gift/promo-card-gift__first-gift.css';
+@import './__second-gift/promo-card-gift__second-gift.css';
+@import './__third-gift/promo-card-gift__third-gift.css';
+
+.promo-card-gift {
+    position: relative;
+    background-color: #2963A3;
+    border-radius: 16px;
+    overflow: hidden;
+    height: 292px;
+}

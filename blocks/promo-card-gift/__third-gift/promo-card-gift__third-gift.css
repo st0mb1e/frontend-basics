@@ -1,0 +1,9 @@
+.promo-card-gift__third-gift {
+    position: absolute;
+    bottom: -23%;
+    right: -3%;
+    display: block;
+    width: 120px;
+    transform: rotate(-90deg);
+    z-index: 3;
+}
