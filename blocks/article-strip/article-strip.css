@@ -2,3 +2,9 @@
     background-color: #EFF5FB;
     height: 75px;
 }
+
+@media screen and (max-width: 990px) {
+    .article-strip {
+        display: none;
+    }
+}

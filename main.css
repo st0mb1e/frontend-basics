@@ -8,6 +8,23 @@ body {
     color: var(--color-text-primary);
 }
 
-button, a {
+input,
+textarea {
+    cursor: text;
+}
+
+button,
+a {
     cursor: pointer;
+    transition: transform 0.15s ease;
+}
+
+button:hover,
+a:hover {
+    cursor: pointer;
+}
+
+button:active,
+a:active {
+    transform: scale(0.97);
 }

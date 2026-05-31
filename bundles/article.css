@@ -13,10 +13,6 @@
 
 @import '/blocks/header/header.css';
 
-@import '/blocks/header/__pick-up-button/header__pick-up-button.css';
-
-@import '/blocks/header/__menu-button/header__menu-button.css';
-
 @import '/blocks/title/title.css';
 
 @import '/blocks/breadcrumbs/breadcrumbs.css';
@@ -24,6 +20,8 @@
 @import '/blocks/article/__title/article__title.css';
 
 @import '/blocks/article/__author/article__author.css';
+
+@import '/blocks/article/__image/article__image.css';
 
 @import '/blocks/button/button.css';
 
@@ -38,6 +36,10 @@
 @import '/blocks/social-media-links/social-media-links.css';
 
 @import '/blocks/more-button-container/more-button-container.css';
+
+@import '/blocks/header/__pick-up-button/header__pick-up-button.css';
+
+@import '/blocks/header/__menu-button/header__menu-button.css';
 
 @import '/blocks/article-payload/article-payload.css';
 

@@ -4,3 +4,15 @@
     gap: 24px;
     max-width: 282px;
 }
+
+@media screen and (max-width: 990px) {
+    .promo-cards-col {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .promo-cards-col {
+        gap: 16px;
+    }
+}

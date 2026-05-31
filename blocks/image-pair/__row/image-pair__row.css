@@ -2,3 +2,16 @@
     display: flex;
     gap: 24px;
 }
+
+@media screen and (max-width: 990px) {
+    .image-pair__row {
+        flex-direction: column;
+        gap: 16px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .image-pair__row {
+        gap: 16px;
+    }
+}

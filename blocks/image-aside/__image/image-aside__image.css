@@ -4,3 +4,10 @@
     height: auto;
     display: block;
 }
+
+@media screen and (max-width: 990px) {
+    .image-aside__image {
+        flex: none;
+        width: 100%;
+    }
+}

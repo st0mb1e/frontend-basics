@@ -6,3 +6,17 @@
     gap: 24px;
     margin: 24px 0;
 }
+
+@media screen and (max-width: 990px) {
+    .image-aside {
+        flex-direction: column;
+        gap: 16px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .image-aside {
+        gap: 16px;
+        margin: 16px 0;
+    }
+}

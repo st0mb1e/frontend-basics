@@ -5,3 +5,10 @@
     margin-top: 24px;
     margin-bottom: 16px;
 }
+
+@media screen and (max-width: 420px) {
+    .article-header_type_h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+}

@@ -11,3 +11,10 @@
     gap: 24px;
     margin-bottom: 24px;
 }
+
+@media screen and (max-width: 420px) {
+    .image-pair {
+        gap: 16px;
+        margin-bottom: 16px;
+    }
+}

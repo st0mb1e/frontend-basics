@@ -2,3 +2,18 @@
     display: flex;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 990px) {
+    .article-payload {
+        flex-direction: column;
+        gap: 24px;
+        margin-bottom: 48px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .article-payload {
+        gap: 16px;
+        margin-bottom: 32px;
+    }
+}

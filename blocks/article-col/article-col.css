@@ -1,3 +1,52 @@
 .article-col {
     max-width: 690px;
 }
+
+@media screen and (max-width: 990px) {
+    .article-col {
+        max-width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+
+    .article-col .article__title {
+        margin-bottom: 0;
+    }
+
+    .article-col .article__author {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .article-col .article__image {
+        margin-top: 0;
+    }
+
+    .article-col .article-content__title {
+        margin-top: 0;
+    }
+
+    .article-col .article-header_type_h3 {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .article-col .exercise,
+    .article-col .image-aside,
+    .article-col .image-with-caption,
+    .article-col .image-pair {
+        margin: 0;
+    }
+
+    .article-col .cite_type_default,
+    .article-col .cite_type_anonym {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .article-col {
+        gap: 16px;
+    }
+}
