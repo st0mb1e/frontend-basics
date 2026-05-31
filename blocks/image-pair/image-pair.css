@@ -1,0 +1,13 @@
+@import './__row/image-pair__row.css';
+@import './__item/image-pair__item.css';
+@import './__image-container/image-pair__image-container.css';
+@import './__image/image-pair__image.css';
+@import './__text/image-pair__text.css';
+@import './__svg/image-pair__svg.css';
+
+.image-pair {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-bottom: 24px;
+}

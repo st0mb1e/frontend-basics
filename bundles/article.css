@@ -60,3 +60,11 @@
 @import '/blocks/cite/cite.css';
 
 @import '/blocks/image-with-caption/image-with-caption.css';
+
+@import '/blocks/image-aside/image-aside.css';
+
+@import '/blocks/exercise/exercise.css';
+
+@import '/blocks/image-pair/image-pair.css';
+
+@import '/blocks/links-list/links-list.css';

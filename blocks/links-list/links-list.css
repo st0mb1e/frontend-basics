@@ -1,0 +1,11 @@
+@import './__item/links-list__item.css';
+@import './__link/links-list__link.css';
+
+.links-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}

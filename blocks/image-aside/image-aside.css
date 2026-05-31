@@ -1,0 +1,8 @@
+@import './__image/image-aside__image.css';
+@import './__text/image-aside__text.css';
+
+.image-aside {
+    display: flex;
+    gap: 24px;
+    margin: 24px 0;
+}

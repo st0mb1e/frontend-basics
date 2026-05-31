@@ -1,0 +1,4 @@
+.image-pair__row {
+    display: flex;
+    gap: 24px;
+}

@@ -1,0 +1,14 @@
+@import './__header/exercise__header.css';
+@import './__text/exercise__text.css';
+@import './_color/exercise_color_beige.css';
+@import './_color/exercise_color_orange.css';
+@import './_color/exercise_color_blue.css';
+
+.exercise {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 24px;
+    border-radius: 16px;
+    margin: 24px 0;
+}
