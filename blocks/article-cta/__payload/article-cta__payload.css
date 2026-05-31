@@ -1,0 +1,8 @@
+.article-cta__payload {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    padding-top: 72px;
+    padding-bottom: 76px;
+}

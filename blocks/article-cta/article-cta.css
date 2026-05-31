@@ -1,0 +1,11 @@
+@import './__divider/article-cta__divider.css';
+@import './__payload/article-cta__payload.css';
+@import './__content/article-cta__content.css';
+@import './__header/article-cta__header.css';
+@import './__description/article-cta__description.css';
+@import './__button/article-cta__button.css';
+@import './__image/article-cta__image.css';
+
+.article-cta {
+    margin-top: 48px;
+}

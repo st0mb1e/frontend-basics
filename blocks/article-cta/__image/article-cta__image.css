@@ -1,0 +1,7 @@
+.article-cta__image {
+    flex-shrink: 0;
+    display: block;
+    width: 520px;
+    height: 330px;
+    object-fit: cover;
+}

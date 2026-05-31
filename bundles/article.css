@@ -21,6 +21,10 @@
 
 @import '/blocks/breadcrumbs/breadcrumbs.css';
 
+@import '/blocks/article/__title/article__title.css';
+
+@import '/blocks/article/__author/article__author.css';
+
 @import '/blocks/button/button.css';
 
 @import '/blocks/footer/footer.css';
@@ -68,3 +72,7 @@
 @import '/blocks/image-pair/image-pair.css';
 
 @import '/blocks/links-list/links-list.css';
+
+@import '/blocks/article-cta/article-cta.css';
+
+@import '/blocks/article-strip/article-strip.css';

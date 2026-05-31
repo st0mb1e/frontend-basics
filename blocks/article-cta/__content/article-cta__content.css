@@ -1,0 +1,5 @@
+.article-cta__content {
+    display: flex;
+    flex-direction: column;
+    max-width: 280px;
+}

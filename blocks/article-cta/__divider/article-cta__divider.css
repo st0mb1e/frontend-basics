@@ -1,0 +1,8 @@
+.article-cta__divider {
+    display: block;
+    height: 1px;
+    border: none;
+    background-color: #DEDEDE;
+    width: 100%;
+    margin: 0;
+}
