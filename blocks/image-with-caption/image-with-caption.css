@@ -1,0 +1,9 @@
+@import './__image/image-with-caption__image.css';
+@import './__caption/image-with-caption__caption.css';
+
+.image-with-caption {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 24px 0;
+}

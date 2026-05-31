@@ -1,0 +1,10 @@
+.cite__text {
+    font-style: italic;
+}
+
+.cite_type_anonym .cite__text {
+    max-width: 485px;
+    margin: 0 auto;
+    margin-top: 24px;
+    z-index: 2;
+}

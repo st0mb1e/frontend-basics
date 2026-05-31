@@ -1,6 +1,5 @@
 .list_style_dot li {
     display: flex;
-    align-items: center;
     gap: 4px;
 }
 

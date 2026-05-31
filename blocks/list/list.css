@@ -1,4 +1,7 @@
 @import './_style/list_style_dot.css';
+@import './_style/list_style_underlined.css';
+@import './_size/list_size_lg.css';
+@import './_gap/list_gap_md.css';
 
 .list {
     list-style: none;

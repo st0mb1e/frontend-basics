@@ -1,0 +1,15 @@
+.cite_type_default .cite__icon {
+    position: absolute;
+    top: 24px;
+    left: 24px;
+}
+
+.cite_type_anonym .cite__icon {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+}

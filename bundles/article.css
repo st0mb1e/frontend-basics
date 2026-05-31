@@ -50,3 +50,13 @@
 @import '/blocks/promo-card-gift/promo-card-gift.css';
 
 @import '/blocks/promo-card-offer/promo-card-offer.css';
+
+@import '/blocks/article-content/article-content.css';
+
+@import '/blocks/article-header/article-header.css';
+
+@import '/blocks/paragraph/paragraph.css';
+
+@import '/blocks/cite/cite.css';
+
+@import '/blocks/image-with-caption/image-with-caption.css';

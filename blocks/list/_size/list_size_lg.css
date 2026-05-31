@@ -1,0 +1,8 @@
+.list.list_size_lg {
+    gap: 14px;
+    line-height: 24px;
+}
+
+.list.list_size_lg.list_style_dot li::before {
+    margin: 8px;
+}

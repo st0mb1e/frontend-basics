@@ -1,0 +1,11 @@
+@import './__text/cite__text.css';
+@import './__author/cite__author.css';
+@import './__icon/cite__icon.css';
+@import './_type/cite_type_default.css';
+@import './_type/cite_type_anonym.css';
+
+.cite {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
