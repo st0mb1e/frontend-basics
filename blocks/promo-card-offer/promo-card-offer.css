@@ -1,0 +1,18 @@
+@import './__header/promo-card-offer__header.css';
+@import './__description/promo-card-offer__description.css';
+@import './__price/promo-card-offer__price.css';
+@import './__first-gift/promo-card-offer__first-gift.css';
+@import './__second-gift/promo-card-offer__second-gift.css';
+@import './__button/promo-card-offer__button.css';
+
+.promo-card-offer {
+    position: relative;
+    padding: 32px;
+    border: 1px solid #DEDEDE;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    overflow: hidden;
+}

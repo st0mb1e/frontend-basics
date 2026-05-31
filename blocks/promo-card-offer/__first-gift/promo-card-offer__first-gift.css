@@ -1,0 +1,8 @@
+.promo-card-offer__first-gift {
+    position: absolute;
+    bottom: -6%;
+    right: -7%;
+    z-index: 1;
+    display: block;
+    width: 112px;
+}
